@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Eduvexa International",
+    "slug": "eduvexa-international",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#101D35"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.eduvexa.international"
+    },
+    "android": {
+      "package": "com.eduvexa.international",
+      "adaptiveIcon": {
+        "backgroundColor": "#101D35"
+      }
+    },
+    "extra": {
+      "businessEmail": "eduvexa.international@gmail.com",
+      "whatsapp": "+919639002254"
+    }
+  }
+}
